@@ -2,4 +2,4 @@
 
 Deployed on VERCEL:
 
-https://yt-scoop-frontend.vercel.app/
+https://ytscoop.vercel.app/
