@@ -19,7 +19,7 @@ const Page = () => {
         try {
             setIsDownloading(true);
 
-            const response = await axios.get(`/download`, {
+            const response = await axios.get(`https://yt-scoop-server.vercel.app/download`, {
                 params: { url, format },
                 responseType: 'blob',
             });
