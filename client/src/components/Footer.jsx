@@ -5,7 +5,7 @@ const Footer = () => {
 
         <div className="relative">
             <div className='absolute bottom-0 right-0 text-white font-mono font-thin text-sm p-2 m-2'>
-                Created by: hadityakumar
+                Created by: Vishmati Peruru
             </div>
         </div>
 
